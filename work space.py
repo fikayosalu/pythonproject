@@ -1,0 +1,41 @@
+#print(0b10)
+#print(0o10)
+#print(0x10)
+#three=3
+#b=44.5
+#c="data"
+#print(c)
+#print(three)
+#salu=('fikayo is the successful engineer')
+#bolu=(' he is very smart')
+#print(salu +  bolu)
+#print(salu.capitalize())
+#print(salu.casefold())
+#print(salu.endswith('r'))
+#print(salu.find('f'))
+#print(salu.isalpha())
+#print(salu.isalnum())
+#Decimal=('84')
+#print(Decimal.isdigit())
+#print(salu.replace('a','u'))
+#print(salu.upper())
+#print(salu.lower())
+#print(salu.split())
+#salufamily=['bolu','timi','ife','fikayo','daddy','mummy']
+#print(salufamily)
+#salufamily.append('david')
+#print(salufamily)
+#salufamily.append('6')
+#print(salufamily.count('ife'))
+#print(salufamily.index('bolu'))
+#salufamily.insert(0,'dotun')
+#print(salufamily)
+#salufamily.pop(0)
+#print(salufamily)  
+#salufamily.reverse()
+#print(salufamily)
+#salufamily[2]=('josh')
+#print(salufamily)
+
+
+
